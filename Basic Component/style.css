@@ -4,6 +4,7 @@ body{
 
 p{
 text-align: center;
+color: bisque;
     
 }
 
@@ -14,3 +15,17 @@ h2{
 h3{
  color: blueviolet;
 }
+
+#Second{
+    color: chartreuse;
+}
+.Adi{
+    border: 2px solid black;
+}
+
+h2,p{
+    color: rgb(45, 181, 186);
+}
+/* Id deffend by # 
+ Class is defined by .
+ Group by h1,h2,h3,p{}*/
