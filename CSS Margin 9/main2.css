@@ -1,0 +1,32 @@
+body{
+    background: url("/Image/bg2.jpg");
+    background-size: 1080px 750px;
+    background-attachment: fixed;
+    background-repeat: no-repeat ;
+}
+
+.header{
+    /* border: 2px solid black; */
+}
+
+.header a{
+        border: 2px solid rebeccapurple;
+        color: rgb(12, 110, 110);
+        /* text formating and desigen */
+        text-decoration: none; 
+        margin: 50px 25px; 
+        display:inline-block;
+        /* margin-top: ;
+        margin-bottom: ;
+        margin-left: ;
+        margin-right: ; */
+        
+        /*  Padding Class : Padding */
+        
+        padding: 15px;
+        /* padding-left: ;
+        padding right: ;
+        padding-bottom: ;
+        padding-top: ; */
+
+}

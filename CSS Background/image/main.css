@@ -1,3 +1,32 @@
 body{
-    background: url("img/pc.jpg");
+    border: 2px solid red;
+    background: url("/Image/Background\ .jpg");
+    background-size: 1300px 750px;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+/* fixed,scroll,local,initial,inherit,unset */
+h1{
+    color: rgb(216, 16, 150);
+    border: 2px solid black;
+    text-align: center;
+}
+
+h2{
+    /* Convert the block element to inline css */
+    display: inline;
+    color: darkgoldenrod;
+    border: 2px solid green;
+}
+
+#first{
+    color: aqua;
+}
+.adi{
+    color: rgb(198, 37, 37);
+}
+
+h3{
+    text-align: center;
+    color: rgb(31, 195, 52);
 }
