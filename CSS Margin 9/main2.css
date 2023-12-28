@@ -29,4 +29,47 @@ body{
         padding-bottom: ;
         padding-top: ; */
 
+                                     /* Chenging Shawo */
+        text-shadow: 4px 1px lightcyan
+}
+
+.navbar{
+
+         border: 2px solid white;
+         width: 500px;
+         /* width: 50%; */
+         /* max-width: 500px; */
+}
+
+#NevBer{
+    border: 3px solid red;
+}
+                                    
+
+
+                                    /*   CSS BOX MODEL */
+
+/* p{
+    color: rgb(47, 220, 116);
+} */
+
+                                    
+.NEVBER{
+        max-width: 500px;
+        border: 20px solid rgb(85, 16, 154);
+        background-color: #fff;
+        padding: 15px;
+        margin: 25px;
+        outline: 15px solid black;
+}
+.NEVBER p{
+    text-indent: 50px;
+    text-align: justify;
+    /* text-decoration:underline; */
+    /* line-height: .5cm; */
+    /* letter-spacing: 3px; */
+    font-family: 'Roboto', sans-serif; 
+    /* Font stack: 'Roboto', sans-serif;  */
+
+
 }
