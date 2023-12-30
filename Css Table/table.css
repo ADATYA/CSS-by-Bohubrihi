@@ -3,6 +3,8 @@
     padding: 200px;
     margin-top: auto;
 
+
+
 }
 
 
@@ -26,6 +28,7 @@
     background-color: rgb(34, 199, 70);
     color: bisque;
     padding: 15px;
+
    
     
 }
@@ -34,6 +37,7 @@
     border: 2px solid black;
     color: rgb(11, 7, 7);
     background-color: rgb(252, 255, 255);
+
 }
 
 /* This is Combinator section (Ansistor/Disender)  */
@@ -46,7 +50,5 @@
     color: black;
 }
 
-.mytable div>table{
-    color: rgb(0, 255, 60);
-}
+
 
