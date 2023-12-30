@@ -127,6 +127,9 @@ body{
             padding: 20px;
             background-color: aqua;
             margin-top: 10px;
+            /* display: none; */
+            /* visibility: hidden; */
+            
 }
 
 .orderlist ol li{
@@ -136,3 +139,40 @@ body{
     padding: 10px;
     background-color: rgb(151, 192, 189);
 }
+
+
+
+
+            /* Create a position Class */
+.position{
+            background-color: red;
+            border: 3px solid black;
+            padding: 20px;
+            position: sticky;
+            top: 0;
+}
+.float{
+        border: 3px solid black;
+        overflow: auto;
+}
+
+
+
+
+                 /* class Alignment */
+.float p{
+    text-align: center;
+    /* text-align: justify; */
+    /* display: block;
+    margin: auto;
+    /* width: 5px; */
+    /* padding: 10px; */ 
+}
+
+
+#myimg{
+    float: left;
+}
+
+/* Combinator - Finding root(Ancestor) from any dev section */
+
