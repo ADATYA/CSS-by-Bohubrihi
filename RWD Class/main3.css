@@ -1,0 +1,46 @@
+body{
+    background: url("/Image/bg2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size:contain;
+
+}
+h1{
+    color: blueviolet;
+    text-decoration:none;
+    text-align: center;
+    border: 2px solid rgb(186, 17, 17);
+    
+}
+  /* Opasity hover opption */
+h1:hover{
+    opacity: 0.5;
+}
+
+
+.Roy{
+    color: rgb(12, 92, 65);
+    border: 5px solid rgb(18, 212, 89);
+    background-color: #fff;
+    
+}
+
+.Roy:hover{
+    opacity: 0.5;
+}
+
+.adi{
+    color: greenyellow;
+    border: 2px solid rgb(126, 15, 224);
+    margin-top: 10px;
+    width: 1000px;
+    max-width: 100%;
+}
+
+#Ankor{
+    padding: 260px;
+    text-decoration: none;
+    color: palegreen;
+    margin: auto;
+   
+}

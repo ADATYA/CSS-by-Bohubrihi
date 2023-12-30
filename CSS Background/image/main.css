@@ -2,6 +2,7 @@ body{
     border: 2px solid red;
     background: url("/Image/Background\ .jpg");
     background-size: 1300px 750px;
+     /* background-size: contain; */
     background-repeat: no-repeat;
     background-attachment:fixed;
 }
