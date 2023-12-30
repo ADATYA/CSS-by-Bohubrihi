@@ -16,21 +16,27 @@ body{
         text-decoration: none; 
         margin: 50px 25px; 
         display:inline-block;
-        /* margin-top: ;
+        padding: 15px;
+        
+        
+        /* margin class : margin */
+        /*margin-top: ;
         margin-bottom: ;
         margin-left: ;
         margin-right: ; */
         
-        /*  Padding Class : Padding */
         
-        padding: 15px;
+        /* Padding Class : Padding */
         /* padding-left: ;
         padding right: ;
         padding-bottom: ;
         padding-top: ; */
 
-                                     /* Chenging Shawo */
+                                   
+        
+        /* Chenging Shawo */
         text-shadow: 4px 1px lightcyan
+
 }
 
 .navbar{
@@ -59,7 +65,7 @@ body{
         border: 20px solid rgb(85, 16, 154);
         background-color: #fff;
         padding: 15px;
-        margin: 25px;
+        margin: auto;
         outline: 15px solid black;
 }
 .NEVBER p{
@@ -73,3 +79,8 @@ body{
 
 
 }
+
+#inner{
+
+}
+
